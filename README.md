@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxhb&layout=compact&theme=radical&hide=HTML,Javascript)](https://github.com/hxhb)
 -->
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=hxhb&show_icons=true&count_private=true&theme=radica">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhb&layout=compact&theme=radical&hide=HTML,Javascript">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=hxhb&show_icons=true&count_private=true&theme=radical">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhb&layout=compact&theme=radical&hide=HTML,Javascript">
